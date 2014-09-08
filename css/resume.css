@@ -7,6 +7,8 @@ body {
   background-color: gray;
   width: 50%;
   left: 25%;
+  top: 5%;
+  position: absolute;
 }
 
 .h2 {
