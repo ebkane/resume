@@ -1,7 +1,10 @@
 /*is this thing on?*/
 body {
   background-color: #666;
+  font-family: Tahoma, Geneva, sans-serif;
 }
+
+
 
 #page {
   background-color: #777;
