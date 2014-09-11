@@ -40,13 +40,13 @@ a:active {
 
 .job {
   font-weight: bold;
-  
+  font-size: 12px;
 }
 
 .location {
-  
+  font-size: 11px;
 }
 
 .description {
-  
+  font-size 11px
 }
